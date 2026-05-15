@@ -1,62 +1,23 @@
-AI-Powered Resume Competency Verification System
-Overview
+# AI-Powered Resume Competency Verification System
 
-The AI-Powered Resume Competency Verification System is an intelligent recruitment and candidate assessment platform designed to verify whether a candidate truly possesses the skills mentioned in their resume.
+## Overview
+The AI-Powered Resume Competency Verification System is designed to verify whether candidates genuinely possess the skills mentioned in their resumes. Using Artificial Intelligence and NLP, the system analyzes resumes, extracts competencies, generates role-based interview questions, and evaluates candidate responses automatically.
 
-The system uses Artificial Intelligence to:
+## Main Objectives
+- Analyze and extract skills from candidate resumes
+- Verify candidate competencies using AI-generated assessments
+- Automate technical screening and interview processes
+- Reduce fake skill claims in recruitment
+- Improve hiring accuracy and efficiency
+- Generate competency scores and evaluation reports
 
-Analyze resumes
-Extract skills and competencies
-Generate role-based interview questions
-Conduct automated assessments
-Evaluate candidate responses
-Provide competency verification reports
+## Technologies Used
+- React.js
+- Node.js / Express.js
+- Python
+- MongoDB
+- AI / NLP Models
+- OpenAI API
 
-This project helps recruiters, HR teams, and companies reduce fake skill claims and improve hiring accuracy through AI-driven validation.
-
-Problem Statement
-
-Many candidates include skills in their resumes without having practical knowledge or real competency in those areas. Traditional resume screening methods are time-consuming and often fail to validate actual expertise.
-
-This system solves that problem by automatically:
-
-Understanding resume content
-Identifying claimed skills
-Testing the candidate using AI-generated questions
-Evaluating performance
-Generating competency scores and reports
-Features
-Resume Analysis
-Upload candidate resumes
-Extract text from PDF/DOCX files
-Identify technical and non-technical skills
-Detect experience, projects, certifications, and education
-Skill Extraction
-NLP-based skill identification
-Technology stack detection
-Role-based competency mapping
-AI Interview Generation
-Automatically generates interview questions
-Questions based on:
-Skills
-Experience
-Projects
-Job role
-Adaptive questioning based on candidate responses
-Competency Verification
-Verifies whether the candidate understands claimed technologies
-Evaluates:
-Technical knowledge
-Problem-solving ability
-Concept clarity
-Practical understanding
-Automated Evaluation
-AI-based answer assessment
-Scoring mechanism
-Feedback generation
-Performance analytics
-Dashboard & Reports
-Candidate performance summary
-Competency score visualization
-Recruiter-friendly reports
-Skill gap analysis
+## Expected Outcome
+The system helps recruiters and organizations identify qualified candidates based on actual skills and knowledge rather than resume claims alone.
